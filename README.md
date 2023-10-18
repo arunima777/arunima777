@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arunima777
 - 👀 I’m interested in working on new projects and showcasing my skills
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on new projects in python
 - 📫 How to reach me arunima4work13@gmail.com
 
 <!---
